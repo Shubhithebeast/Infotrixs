@@ -1,16 +1,18 @@
 // client/src/App.js
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,useRef } from 'react';
 import axios from 'axios';
 import './App.css'; // Import the CSS file
+import Typed from 'typed.js'  
 
 const  App=() =>{
     const [quote, setQuote] = useState({ text: '', author: '' });
     const [searchAuthor, setSearchAuthor] = useState('');
+    const autoText = useRef(null); 
 
-    const getRandomQuote = async () => {
+    const getRandomQuote = async () => { 
         try {
             const response = await axios.get('http://localhost:5000/api/random');
-            // console.log(response.data);
+            console.log("Random quote fetch data: ",response.data);
             const {a:author, q:text} = response.data[0];
 
             await axios.post('http://localhost:5000/api/addQuote',{author,text});
@@ -23,9 +25,12 @@ const  App=() =>{
     const searchByAuthor = async () => {
         try {
             const response = await axios.get(`http://localhost:5000/api/search/${searchAuthor}`);
+
             if (response.data.length > 0) { 
+               console.log("Author quote fetch data: ",response.data);
                 setQuote(response.data[0]);
             } else {
+               console.log("No quote found by Author: ",response.data);
                 setQuote({ text: 'No quotes found.', author: '' });
             }
         } catch (error) {
@@ -35,14 +40,28 @@ const  App=() =>{
 
     useEffect(() => {
         getRandomQuote();
+
+        const typed = new Typed(autoText.current,{
+            strings:['Quote of the day','Find your thoughts on quotes','Happiness, Peace, Vibes, Calmness...'],
+            typeSpeed:150,
+            backSpeed:150,
+            loop:true
+        })
+
+        return()=>{
+            // Destroy Typed instance during cleanup to stop animation
+            typed.destroy();
+        }
+
     }, []);
 
     return (
         <div className="app-container">
+        <h1 class="font-effect-fire" ><span class="font-effect-neon">🖋 </span><span ref={autoText}></span></h1>
+            
             <div className="quote-container">
-                <h1>Quote of the Day</h1>
                 <p className="quote-text">{quote.text}</p>
-                <p className="quote-author">- {quote.author}</p>
+                <p className="quote-author">-✍🏻{quote.author}</p>
             </div>
 
             <div className="buttons-container">

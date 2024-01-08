@@ -22,18 +22,22 @@
   border-radius: 8px;
   box-shadow: 0 6px 1px rgb(251, 245, 236);
   margin-bottom: 20px;
+  transition: transform 0.3s ease;
+  max-width: 90%; 
 }
 
+
 .quote-text {
-  font-size: 1.5rem;
-  margin-bottom: 10px;
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  font-family: 'Sofia'
 }
-h1{
-  margin-bottom: 5px;
-}
+
 
 .quote-author {
   font-size: 1rem;
+  font-weight: bolder;
+  color: red;
 }
 
 .buttons-container {
@@ -42,6 +46,11 @@ h1{
   align-items: center;
 }
 
+h1{
+  margin-bottom: 25px;
+  font-size: 3.2rem;
+  font-family: "Sofia", sans-serif;
+}
 .button {
   background-color: #34db47;
   color: #fff;
@@ -51,11 +60,14 @@ h1{
   cursor: pointer;
   font-size: 1rem;
   margin-bottom: 10px;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+ 
 }
 
 .button:hover {
   background-color: #2980b9;
+  transform:scale(1.05);
+  
 }
 
 .search-container {
@@ -69,6 +81,12 @@ input {
   margin-bottom: 10px;
   border-radius: 5px;
   margin-right: 10px;
+  transition: transform 0.3 ease;
+ 
+}
+
+.quote-container:hover,input:hover{
+  transform: scale(1.03);
 }
 
 /* Responsive Styles */

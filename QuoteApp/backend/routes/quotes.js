@@ -33,7 +33,7 @@ router.post('/addQuote', async(req,res)=>{
         // add quote and author name in database, in collection quote
         const new_quote = new Quote({text,author});
         await new_quote.save();
-        // console.log("Quote successfully added...");
+        console.log("Quote successfully added in db...");
         res.json({success:true, message:"Quote successfully added..."});
     }catch(error){
         console.error(error);
