@@ -42,7 +42,7 @@ const  App=() =>{
         getRandomQuote();
 
         const typed = new Typed(autoText.current,{
-            strings:['Quote of the day','Find your thoughts on quotes','Happiness, Peace, Vibes, Calmness...'],
+            strings:['Quote of the day','Find your thoughts in quotes','Happiness, Love, Peace, Vibes, Calmness...'],
             typeSpeed:150,
             backSpeed:150,
             loop:true
