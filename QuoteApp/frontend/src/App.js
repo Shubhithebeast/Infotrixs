@@ -5,18 +5,22 @@ import './App.css'; // Import the CSS file
 import Typed from 'typed.js'  
 
 const  App=() =>{
-    const [quote, setQuote] = useState({ text: '', author: '' });
+    const [quote, setQuote] = useState({ text: 'Loading...', author: 'Loading...' });
     const [searchAuthor, setSearchAuthor] = useState('');
     const autoText = useRef(null); 
 
     const getRandomQuote = async () => { 
         try {
-            const response = await axios.get('http://localhost:5000/api/random');
-            console.log("Random quote fetch data: ",response.data);
-            const {a:author, q:text} = response.data[0];
 
-            await axios.post('http://localhost:5000/api/addQuote',{author,text});
-            setQuote({author,text});
+            const response = await axios.get('http://localhost:5000/api/random');
+            // console.log("Random quote fetch data: ",response.data);
+            // const {a:author, q:text} = response.data[0];
+
+            // posting data , what we have displayed
+            // await axios.post('http://localhost:5000/api/addQuote',{author,text});
+            
+            // setQuote({author,text});
+            setQuote(response.data[0]);
         } catch (error) {  
             console.error(error);
         }
@@ -25,8 +29,10 @@ const  App=() =>{
     const searchByAuthor = async () => {
         try {
             const response = await axios.get(`http://localhost:5000/api/search/${searchAuthor}`);
+            console.log("res->->",response.data);
+            // console.log("type->", typeof(response.data[0]));
 
-            if (response.data.length > 0) { 
+            if (response.data.length !== 0) { 
                console.log("Author quote fetch data: ",response.data);
                 setQuote(response.data[0]);
             } else {

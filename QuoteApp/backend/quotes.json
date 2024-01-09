@@ -1,0 +1,574 @@
+[
+    {
+        "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "Thomas Edison"
+    },
+    {
+        "text": "You can observe a lot just by watching.",
+        "author": "Yogi Berra"
+    },
+    {
+        "text": "A house divided against itself cannot stand.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "text": "Difficulties increase the nearer we get to the goal.",
+        "author": "Johann Wolfgang von Goethe"
+    },
+    {
+        "text": "Fate is in your hands and no one else's",
+        "author": "Byron Pulsifer"
+    },
+    {
+        "text": "Be the chief but never the lord.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "Nothing happens unless first we dream.",
+        "author": "Carl Sandburg"
+    },
+    {
+        "text": "Well begun is half done.",
+        "author": "Aristotle"
+    },
+    {
+        "text": "Life is a learning experience, only if you learn.",
+        "author": "Yogi Berra"
+    },
+    {
+        "text": "Self-complacency is fatal to progress.",
+        "author": "Margaret Sangster"
+    },
+    {
+        "text": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha"
+    },
+    {
+        "text": "What you give is what you get.",
+        "author": "Byron Pulsifer"
+    },
+    {
+        "text": "We can only learn to love by loving.",
+        "author": "Iris Murdoch"
+    },
+    {
+        "text": "Life is change. Growth is optional. Choose wisely.",
+        "author": "Karen Clark"
+    },
+    {
+        "text": "You'll see it when you believe it.",
+        "author": "Wayne Dyer"
+    },
+    {
+        "text": "The future depends on what you do today.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "text": "In the middle of difficulty lies opportunity.",
+        "author": "Albert Einstein"
+    },
+    {
+        "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+        "author": "Christian D. Larson"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "Don't watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson"
+    },
+    {
+        "text": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+        "author": "William James"
+    },
+    {
+        "text": "The journey of a thousand miles begins with one step.",
+        "author": "Lao Tzu"
+    },
+    {
+        "text": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+        "author": "Roy T. Bennett"
+    },
+    {
+        "text": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett"
+    },
+    {
+        "text": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.",
+        "author": "Dr. Seuss"
+    },
+    {
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William Butler Yeats"
+    },
+    {
+        "text": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis"
+    },
+    {
+        "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "text": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau"
+    },
+    {
+        "text": "The only way to achieve the impossible is to believe it is possible.",
+        "author": "Charles Kingsleigh"
+    },
+    {
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama"
+    },
+    {
+        "text": "I find that the harder I work, the more luck I seem to have.",
+        "author": "Thomas Jefferson"
+    },
+    {
+        "text": "If you want to achieve greatness stop asking for permission.",
+        "author": "Anonymous"
+    },
+    {
+        "text": "Success is not just about making money. It's about making a difference.",
+        "author": "Unknown"
+    },
+    {
+        "text": "The only place where success comes before work is in the dictionary.",
+        "author": "Vidal Sassoon"
+    },
+    {
+        "text": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker"
+    },
+    {
+        "text": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+        "author": "Winston Churchill"
+    },
+    {
+        "text": "In three words I can sum up everything I've learned about life: It goes on.",
+        "author": "Robert Frost"
+    },
+    {
+        "text": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt"
+    },
+    {
+        "text": "Life is what happens when you're busy making other plans.",
+        "author": "Allen Saunders"
+    },
+    {
+        "text": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama"
+    },
+    {
+        "text": "You can't fall if you don't climb. But there's no joy in living your whole life on the ground.",
+        "author": "Unknown"
+    },
+    {
+        "text": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela"
+    },
+    {
+        "text": "If you're going through hell, keep going.",
+        "author": "Winston Churchill"
+    },
+    {
+        "text": "Your attitude, not your aptitude, will determine your altitude.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "text": "I have not failed. I've just found 10,000 ways that won't work.",
+        "author": "Thomas Edison"
+    },
+    {
+        "text": "It's not whether you get knocked down, it's whether you get up.",
+        "author": "Vince Lombardi"
+    },
+    {
+        "text": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+        "author": "Albert Schweitzer"
+    },
+    {
+        "text": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs"
+    },
+    {
+        "text": "The best revenge is massive success.",
+        "author": "Frank Sinatra"
+    },
+    {
+        "text": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "text": "Self-belief and hard work will always earn you success.",
+        "author": "Virat Kohli"
+    },
+    {
+        "text": "It is no measure of health to be well adjusted to a profoundly sick society.",
+        "author": "Jiddu Krishnamurti"
+    },
+    {
+        "text": "Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.",
+        "author": "Paramahansa Yogananda"
+    },
+    {
+        "text": "Implementation of promises is as important as making them.",
+        "author": "Y. S. Jaganmohan Reddy"
+    },
+    {
+        "text": "Everything happening around me is very random. I am enjoying the phase, as the journey is far more enjoyable than the destination.",
+        "author": "Sushant Singh Rajput"
+    },
+    {
+        "text": "Nostalgia is not a place to live.",
+        "author": "Gulzar"
+    },
+    {
+        "text": "Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.",
+        "author": "Arundhati Roy"
+    },
+    {
+        "text": "Growth comes from chaos, not order.",
+        "author": "Rakesh Jhunjhunwala"
+    },
+    {
+        "text": "Sometimes legends make reality and become more useful than the facts.",
+        "author": "Salman Rushdie"
+    },
+    {
+        "text": "You cannot shake hands with a clenched fist.",
+        "author": "Indira Gandhi"
+    },
+    {
+        "text": "You can change friends but not neighbors.",
+        "author": "Atal Bihari Vajpayee"
+    },
+    {
+        "text": "If agriculture goes wrong, nothing else will have a chance to go right.",
+        "author": "M. S. Swaminathan"
+    },
+    {
+        "text": "The ignorant mind, with its infinite afflictions, passions, and evils, is rooted in the three poisons. Greed, anger, and delusion.",
+        "author": "Bodhidharma"
+    },
+    {
+        "text": "I can recite poetry, but I cannot write it.",
+        "author": "Irrfan Khan"
+    },
+    {
+        "text": "Just because you are CEO, don't think you have landed. You must continually increase your learning, the way you think, and the way you approach the organization. I've never forgotten that.",
+        "author": "Indra Nooyi"
+    },
+    {
+        "text": "Life is a blur when one is essaying different roles; it is so fulfilling.",
+        "author": "Amitabh Bachchan"
+    },
+    {
+        "text": "Childhood means simplicity. Look at the world with the child's eye - it is very beautiful.",
+        "author": "Kailash Satyarthi"
+    },
+    {
+        "text": "Cricket is not gender-biased. It isn't that men's cricket is different and women's a different one.",
+        "author": "Mithali Raj"
+    },
+    {
+        "text": "People always want welfare, development, and good governance. As long as you are delivering, people are with you.",
+        "author": "N. Chandrababu Naidu"
+    },
+    {
+        "text": "Success comes to those who dedicate everything to their passion in life. To be successful, it is also very important to be humble and never let fame or money travel to your head.",
+        "author": "A. R. Rahman"
+    },
+    {
+        "text": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Let come what comes, let go what goes. See what remains.",
+        "author": "Ramana Maharshi"
+    },
+    {
+        "text": "A good wife is one who serves her husband in the morning like a mother does, loves him in the day like a sister does and pleases him like a prostitute in the night.",
+        "author": "Chanakya"
+    },
+    {
+        "text": "When the flower blooms, the bees come uninvited.",
+        "author": "Ramakrishna"
+    },
+    {
+        "text": "Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers.",
+        "author": "Shakuntala Devi"
+    },
+    {
+        "text": "I measure the progress of a community by the degree of progress which women have achieved.",
+        "author": "B. R. Ambedkar"
+    },
+    {
+        "text": "Life is life - whether in a cat, or dog or man. There is no difference there between a cat or a man. The idea of difference is a human conception for man's own advantage.",
+        "author": "Sri Aurobindo"
+    },
+    {
+        "text": "Trust is the first step to love.",
+        "author": "Munshi Premchand"
+    },
+    {
+        "text": "A holiday is an opportunity to journey within. It is also a chance to chill, to relax. It is when I switch on my rest mode.",
+        "author": "Prabhas"
+    },
+    {
+        "text": "A lion runs the fastest when he is hungry.",
+        "author": "Salman Khan"
+    },
+    {
+        "text": "Faith is the bird that feels the light when the dawn is still dark.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Death is not extinguishing the light; it is only putting out the lamp because the dawn has come.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Love is an endless mystery, for it has nothing else to explain it.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Depth of friendship does not depend on length of acquaintance.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Love does not claim possession, but gives freedom.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Music fills the infinite between two souls.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "He who is too busy doing good finds no time to be good.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Trees are the earth's endless effort to speak to the listening heaven.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Do not say, 'It is morning,' and dismiss it with a name of yesterday. See it for the first time as a newborn child that has no name.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "The highest education is that which does not merely give us information but makes our life in harmony with all existence.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "I have become my own version of an optimist. If I can't make it through one door, I'll go through another door - or I'll make a door. Something terrific will come no matter how dark the present.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "To be outspoken is easy when you do not wait to speak the complete truth.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Trees are Earth's endless effort to speak to the listening heaven.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "From the solemn gloom of the temple children run out to sit in the dust, God watches them play and forgets the priest.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "You can't cross the sea merely by standing and staring at the water.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Beauty is truth's smile when she beholds her own face in a perfect mirror.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Every child comes with the message that God is not yet discouraged of man.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Everything comes to us that belongs to us if we create the capacity to receive it.",
+        "author": "Rabindranath Tagore"
+    },
+    {
+        "text": "Success is not a good teacher, failure makes you humble.",
+        "author": "SRK"
+    },
+    {
+        "text": "Cricket is not everything, not by any means, but it is a large part of who I am.",
+        "author": "SRK"
+    },
+    {
+        "text": "Financial independence is paramount. My mom always says that when a woman is financially independent, she has the ability to live life on her own terms. I think that was the soundest advice that I ever got. No matter where you go in life or who you get married to, you have to be financially independent - whether you use it or not.",
+        "author": "SRK"
+    },
+    {
+        "text": "If you leave without a fight, you will get the name of a coward.",
+        "author": "SRK"
+    },
+    {
+        "text": "Happiness radiates like the fragrance from a flower and draws all good things towards you.",
+        "author": "SRK"
+    },
+    {
+        "text": "Life is a song - sing it. Life is a game - play it. Life is a challenge - meet it. Life is a dream - realize it. Life is a sacrifice - offer it. Life is love - enjoy it.",
+        "author": "SRK"
+    },
+    {
+        "text": "Nothing is easy in cricket. Maybe when you watch it on TV, it looks easy. But it is not. You have to use your brain and time the ball.",
+        "author": "SRK"
+    },
+    {
+        "text": "We will use political power as a tool to improve the lives of the people.",
+        "author": "Narendra Modi"
+    },
+    {
+        "text": "Be patient. Patience is the mother of all virtues.",
+        "author": "Narendra Modi"
+    },
+    {
+        "text": "Good governance with good intentions is the hallmark of our government. Implementation with integrity is our core passion.",
+        "author": "Narendra Modi"
+    },
+    {
+        "text": "Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work.",
+        "author": "Narendra Modi"
+    },
+    {
+        "text": "Financial independence is paramount. My mom always says that when a woman is financially independent, she has the ability to live life on her own terms. I think that was the soundest advice that I ever got. No matter where you go in life or who you get married to, you have to be financially independent - whether you use it or not.",
+        "author": "Narendra Modi"
+    },
+    {
+        "text": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "To be good and to do good - that is the whole of religion.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "Arise, awake, and stop not until the goal is achieved.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "You cannot believe in God until you believe in yourself.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "text": "Freedom is not given, it is taken.",
+        "author": "Subhash Chandra Bose"
+    },
+    {
+        "text": "It is our duty to pay for our liberty with our own blood.",
+        "author": "Subhash Chandra Bose"
+    },
+    {
+        "text": "Give me blood, and I shall give you freedom.",
+        "author": "Subhash Chandra Bose"
+    },
+    {
+        "text": "Reality is, after all, too big for our frail understanding to fully comprehend.",
+        "author": "Subhash Chandra Bose"
+    },
+    {
+        "text": "No real change in history has ever been achieved by discussions.",
+        "author": "Subhash Chandra Bose"
+    },
+    {
+        "text": "They may kill me, but they cannot kill my ideas. They can crush my body, but they will not be able to crush my spirit.",
+        "author": "Bhagat Singh"
+    },
+    {
+        "text": "The sword of revolution is sharpened on the whetting-stone of ideas.",
+        "author": "Bhagat Singh"
+    },
+    {
+        "text": "Lovers, Lunatics, and poets are made of the same stuff.",
+        "author": "Bhagat Singh"
+    },
+    {
+        "text": "When something is important enough, you do it even if the odds are not in your favor.",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "I think it is possible for ordinary people to choose to be extraordinary.",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "Failure is an option here. If things are not failing, you are not innovating enough.",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "I would like to die on Mars. Just not on impact.",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "Persistence is very important. You should not give up unless you are forced to give up.",
+        "author": "Elon Musk"
+    },
+    {
+        "text": "In geometry his greatest achievement was an accurate value of π.",
+        "author": "Aryabhata"
+    },
+    {
+        "text": "Translates to: for a triangle, the result of a perpendicular with the half-side is the area.",
+        "author": "Aryabhata"
+    },
+    {
+        "text": "In Indian astronomy, the prime meridian is the great circle of the Earth passing through the north and south poles, Ujjayinī and Laṅkā, where Laṅkā was assumed to be on the Earth's equator.",
+        "author": "Aryabhata"
+    },
+    {
+        "text": "साईं इतना दीजिए, जा मे कुटुम समाय। मैं भी भूखा न रहूं, साधु ना भूखा जाय।।",
+        "author": "Kabir"
+    },
+    {
+        "text": "बड़ा हुआ तो क्या हुआ, जैसे पेड़ खजूर। पंथी को छाया नहीं, फल लागे अति दूर।।",
+        "author": "Kabir"
+    },
+    {
+        "text": "ऐसी वाणी बोलिए मन का आप खोए, औरन को शीतल करे, आपहुं शीतल होए।",
+        "author": "Kabir"
+    },
+    {
+        "text": "चिंता ऐसी डाकिनी, काट कलेजा खाए। वैद बिचारा क्या करे, कहां तक दवा लगाए।।",
+        "author": "Kabir"
+    },
+    {
+        "text": "रे-धीरे रे मना, धीरे सब कुछ होय। माली सींचे सौ घड़ा, ऋतु आए फल होय॥",
+        "author": "Kabir"
+    },
+    {
+        "text": "बुरा जो देखन मैं चला, बुरा न मिलिया कोय। जो दिल खोजा आपना, मुझसे बुरा न कोय॥",
+        "author": "Kabir"
+    }
+]
