@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
-const mongo_url = 'mongodb+srv://shubham:cluster123@quotescluster.d4ao3ui.mongodb.net/quotes_db?retryWrites=true&w=majority'; 
+require("dotenv").config();
+const mongo_url = process.env.MONGO_URI; 
 
 const mongodb = async () => {
     try {

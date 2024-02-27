@@ -34,9 +34,5 @@ npm start
 ![Screenshot (486)](https://github.com/Shubhithebeast/QuoteApp/assets/71927968/54d20345-2bfd-4740-a7d3-177d3ca346ba)
 
 
-<b>Customization</b><br>
-<hr>
-<p>Feel free to customize QuoteApp by tweaking CSS, changing background images, or adjusting animation durations to make it uniquely yours!</p>
-
 <p>Embrace the wisdom with QuoteApp! 📚✨ Share your favorite quotes and spread positivity!</p>
 </html>
