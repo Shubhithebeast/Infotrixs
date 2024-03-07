@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "./App.css"; // Import the CSS file
 import Typed from "typed.js";
-const host = "http://localhost:5000";
+const host = "https://quoteapp-5y30.onrender.com";
 
 const App = () => {
 
