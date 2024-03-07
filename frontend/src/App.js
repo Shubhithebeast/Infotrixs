@@ -3,8 +3,10 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "./App.css"; // Import the CSS file
 import Typed from "typed.js";
+const host = "http://localhost:5000";
 
 const App = () => {
+
   const [quote, setQuote] = useState({
     text: "Loading...",
     author: "Loading...",
@@ -14,7 +16,7 @@ const App = () => {
 
   const getRandomQuote = async () => {
     try {
-      const response = await axios.get("http://localhost:5000/api/random");
+      const response = await axios.get(`${host}/api/random`);
       // console.log("Random quote fetch data: ",response.data);
       // const {a:author, q:text} = response.data[0];
 
@@ -31,7 +33,7 @@ const App = () => {
   const searchByAuthor = async () => {
     try {
       const response = await axios.get(
-        `http://localhost:5000/api/search/${searchAuthor}`
+        `${host}/api/search/${searchAuthor}`
       );
 
       console.log("Author quote fetch data: ", response.data);

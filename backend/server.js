@@ -14,6 +14,10 @@ app.use(express.json()) // parse incoming json data
 connectDb();
 
 app.use('/api',require('./routes/quotes'));
+
+app.get("/", (req, res) => {
+    res.send("Hiii, its working...");
+})
 // start server at PORT
 app.listen(PORT,()=>{
     console.log(`Server is running on port ${PORT}`);
