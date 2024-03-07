@@ -1,4 +1,4 @@
-<h2><b><a href="https://65e9d54c2faa5c1c7c82b740--quotesapp-byshubham.netlify.app/" target="_blank" >QuoteApp</a></b></h2>
+<h2><b><a href="https://quotesapp-byshubham.netlify.app/" target="_blank" >QuoteApp</a></b></h2>
 <hr>
 <p>Explore the world of wisdom with QuoteApp - a MERN stack project where you can share and discover inspiring quotes. Get ready for a journey of enlightenment!</p>
 
