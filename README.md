@@ -5,7 +5,7 @@
 <b>Getting Started</b><br>
 <p>Clone the Repository:</p>
 <pre>
-git clone https://github.com/your-username/QuoteApp.git
+git clone https://github.com/Shubhithebeast/QuoteApp.git
 </pre>
 
 <p>Install Dependencies:</p>
